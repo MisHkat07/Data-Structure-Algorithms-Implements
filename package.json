@@ -1,0 +1,19 @@
+{
+  "name": "data_structure_algorithms_implements",
+  "version": "1.0.0",
+  "description": "DSA Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisHkat07/Data-Structure-Algorithms-Implements.git"
+  },
+  "author": "MisHkat07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisHkat07/Data-Structure-Algorithms-Implements/issues"
+  },
+  "homepage": "https://github.com/MisHkat07/Data-Structure-Algorithms-Implements#readme"
+}
