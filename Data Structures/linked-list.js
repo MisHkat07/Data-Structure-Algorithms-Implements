@@ -1,15 +1,3 @@
-// let myLinkedList = {
-//   head: {
-//     value: 10,
-//     next: {
-//       value: 15,
-//       next: {
-//         value: 6,
-//         next: null,
-//       },
-//     },
-//   },
-// };
 
 // >>>>>>>>> Singly Linked List
 class LinkedList {
